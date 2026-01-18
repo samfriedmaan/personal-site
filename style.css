@@ -41,6 +41,7 @@ ul {
     flex-direction: column;
     gap: 0.5rem;
     padding-left: 1rem;
+    margin-bottom: 0.75rem;
 }
 
 a {
