@@ -53,8 +53,14 @@ ul {
     margin-bottom: 0.75rem;
 }
 
+ul ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    margin-top: 0.25rem;
+}
+
 a {
-    color: #546e7a;
+    color: #3c4b90;
     text-decoration: none;
 }
 
