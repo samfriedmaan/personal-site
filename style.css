@@ -54,25 +54,27 @@ ul {
 }
 
 ul ul {
+    color: #676767;
     list-style-type: disc;
-    padding-left: 1.5rem;
-    margin-top: 0.25rem;
+    padding-left: 1.25rem;
+    margin-top: 0.2rem;
+    gap: 0.25rem;
 }
 
 a {
-    color: #3c4b90;
+    color: #3f53aa;
     text-decoration: none;
 }
 
 a:hover {
-    color: #1a1a1a;
+    color: #0d157b;
     text-decoration: underline;
 }
 
 footer {
     text-align: center;
     padding-top: 3rem;
-    color: #999;
+    color: #676767;
 }
 
 @media (max-width: 480px) {
